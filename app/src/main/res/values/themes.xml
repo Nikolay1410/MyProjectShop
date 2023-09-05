@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyProjectShop" parent="Theme.Material3.DayNight">
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:fontFamily">@font/comic</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ThemesSpinnerAriali" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/ariali</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+    <style name="ThemesSpinnerBahnschrift" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/bahnschrift</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+    <style name="ThemesSpinnerComic" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/comic</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+    <style name="ThemesSpinnerDeja" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/deja</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+    <style name="ThemesSpinnerItalic" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/italic</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+    <style name="ThemesSpinnerSegoeprb" parent="Theme.Material3.DayNight">
+        <item name="android:fontFamily">@font/segoeprb</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+    <style name="Theme.MyProjectShop" parent="Base.Theme.MyProjectShop" />
+</resources>

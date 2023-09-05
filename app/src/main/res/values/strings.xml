@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyProjectShop</string>
+    <string name="default_web_client_id" translatable="false">webClientId.apps.googleusercontent.com</string>
+    <string name="exitAut">Выйти из акаунта</string>
+    <string-array name="city">
+        <item>Запоріжжя</item>
+        <item>Дніпро</item>
+        <item>Лиїв</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="exit">Выход</string>
+    <string-array name="text_of_still">
+        <item>Ariali</item>
+        <item>Bahnschrift</item>
+        <item>Comic</item>
+        <item>Deja</item>
+        <item>Italic</item>
+        <item>Segoeprb</item>
+    </string-array>
+</resources>
